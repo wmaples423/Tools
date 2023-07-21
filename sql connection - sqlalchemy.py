@@ -21,14 +21,14 @@ with engine.begin() as conn:
 	columns.precision,
 	columns.scale,
 	columns.is_nullable
-FROM sys.tables
-INNER JOIN sys.columns
-ON tables.object_id = columns.object_id
-INNER JOIN sys.types
-ON types.user_type_id = columns.user_type_id
-INNER JOIN sys.schemas
-ON schemas.schema_id = tables.schema_id
-ORDER BY schemas.name,
+	FROM sys.tables
+	INNER JOIN sys.columns
+	ON tables.object_id = columns.object_id
+	INNER JOIN sys.types
+	ON types.user_type_id = columns.user_type_id
+	INNER JOIN sys.schemas
+	ON schemas.schema_id = tables.schema_id
+	ORDER BY schemas.name,
 	tables.name,
 	columns.column_id'''), conn)
 

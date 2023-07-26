@@ -4,6 +4,8 @@ import polars as pl
 start_time = time.time()
 
 # SQL query for pull, execute this to graba a spreadsheet with all necessary data
+# This only has to be done once as Oracle Tables are static
+# Below is an example of the query I used
 
 # SELECT TABLE_NAME, COLUMN_NAME, DATA_TYPE, DATA_LENGTH, DATA_PRECISION, NULLABLE
 # FROM ALL_TAB_COLUMNS

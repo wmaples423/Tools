@@ -1,4 +1,4 @@
-using System.IO.Compression;
+﻿using System.IO.Compression;
 using System.IO;
 
 class Program
@@ -6,7 +6,7 @@ class Program
     static void Main(string[] args)
     {
         // specify the directory containing the zip files
-        string directory = "path/to/directory";
+        string directory = "C:/Users/wmapl/Downloads";
 
         // loop through all files in the directory
         foreach (string filename in Directory.GetFiles(directory))

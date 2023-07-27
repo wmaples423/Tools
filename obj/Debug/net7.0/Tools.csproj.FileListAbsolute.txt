@@ -1,0 +1,15 @@
+C:\Users\wmapl\Source\Tools\bin\Debug\net7.0\Tools.exe
+C:\Users\wmapl\Source\Tools\bin\Debug\net7.0\Tools.deps.json
+C:\Users\wmapl\Source\Tools\bin\Debug\net7.0\Tools.runtimeconfig.json
+C:\Users\wmapl\Source\Tools\bin\Debug\net7.0\Tools.dll
+C:\Users\wmapl\Source\Tools\bin\Debug\net7.0\Tools.pdb
+C:\Users\wmapl\Source\Tools\obj\Debug\net7.0\Tools.csproj.AssemblyReference.cache
+C:\Users\wmapl\Source\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmapl\Source\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
+C:\Users\wmapl\Source\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
+C:\Users\wmapl\Source\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\wmapl\Source\Tools\obj\Debug\net7.0\Tools.dll
+C:\Users\wmapl\Source\Tools\obj\Debug\net7.0\refint\Tools.dll
+C:\Users\wmapl\Source\Tools\obj\Debug\net7.0\Tools.pdb
+C:\Users\wmapl\Source\Tools\obj\Debug\net7.0\Tools.genruntimeconfig.cache
+C:\Users\wmapl\Source\Tools\obj\Debug\net7.0\ref\Tools.dll

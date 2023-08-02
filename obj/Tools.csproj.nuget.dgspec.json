@@ -1,37 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\wmapl\\Source\\Tools\\Tools.csproj": {}
+    "c:\\Users\\wmapl\\Source\\Tools\\Tools.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wmapl\\Source\\Tools\\Tools.csproj": {
+    "c:\\Users\\wmapl\\Source\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wmapl\\Source\\Tools\\Tools.csproj",
+        "projectUniqueName": "c:\\Users\\wmapl\\Source\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "C:\\Users\\wmapl\\Source\\Tools\\Tools.csproj",
+        "projectPath": "c:\\Users\\wmapl\\Source\\Tools\\Tools.csproj",
         "packagesPath": "C:\\Users\\wmapl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wmapl\\Source\\Tools\\obj\\",
+        "outputPath": "c:\\Users\\wmapl\\Source\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wmapl\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-    "C:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\Tools.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\Tools.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\Tools.csproj",
-        "projectName": "Tools",
-        "projectPath": "C:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\Tools.csproj",
-        "packagesPath": "C:\\Users\\MaplesWi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\MaplesWi\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 61aa2035a771b6eb828d7b98ce709cf2a14a8836
         ],
         "originalTargetFrameworks": [
           "net7.0"

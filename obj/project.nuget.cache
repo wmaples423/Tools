@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "ThfIOg0Xk/xKErpJukcnZyX5g+HA4QQVGRkb2iN28aAclad4u4f0q3O88dC4rHJNxGr1I2hMoU5hi9LzLGlTsQ==",
+  "dgSpecHash": "OHOj520GulqUtBB8uVJmdEJ/GXYIiAuyysOGp460OC1qlW4ETcAbbKjbSz9Ws7uVlVIHVpu+1dTp4T7QYs1PaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wmapl\\Source\\Tools\\Tools.csproj",
-=======
-  "dgSpecHash": "TQdskccdUQ6ed/wW5ZdwgGy415BzKBvc4mnKGZ4KalSAbB+k1dSWMmVgn7bftX7O90eHTAK3+7C2vdCFTV7rSg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\Tools.csproj",
->>>>>>> 61aa2035a771b6eb828d7b98ce709cf2a14a8836
+  "projectFilePath": "c:\\Users\\wmapl\\Source\\Tools\\Tools.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file c:\\Users\\wmapl\\Source\\Tools\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

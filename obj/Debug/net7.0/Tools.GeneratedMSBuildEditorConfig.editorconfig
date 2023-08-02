@@ -8,8 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tools
-<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\wmapl\Source\Tools\
-=======
-build_property.ProjectDir = C:\Users\MaplesWi\OneDrive - Clayton Homes\Desktop\Tools\Tools\
->>>>>>> 61aa2035a771b6eb828d7b98ce709cf2a14a8836

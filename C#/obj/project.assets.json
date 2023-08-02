@@ -8,11 +8,16 @@
     "net7.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD:obj/project.assets.json
     "C:\\Users\\wmapl\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\MaplesWi\\.nuget\\packages\\": {}
+>>>>>>> d52de2f6c913a9f519054f2f9f8d00bd083cc6ac:C#/obj/project.assets.json
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:obj/project.assets.json
       "projectUniqueName": "c:\\Users\\wmapl\\Source\\Tools\\Tools.csproj",
       "projectName": "Tools",
       "projectPath": "c:\\Users\\wmapl\\Source\\Tools\\Tools.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wmapl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\Tools.csproj",
+      "projectName": "Tools",
+      "projectPath": "c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\Tools.csproj",
+      "packagesPath": "C:\\Users\\MaplesWi\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MaplesWi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> d52de2f6c913a9f519054f2f9f8d00bd083cc6ac:C#/obj/project.assets.json
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -68,7 +83,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD:obj/project.assets.json
       "message": "Problem reading the cache file c:\\Users\\wmapl\\Source\\Tools\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> d52de2f6c913a9f519054f2f9f8d00bd083cc6ac:C#/obj/project.assets.json
     }
   ]
 }

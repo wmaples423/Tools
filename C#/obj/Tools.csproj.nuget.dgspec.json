@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD:obj/Tools.csproj.nuget.dgspec.json
     "c:\\Users\\wmapl\\Source\\Tools\\Tools.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wmapl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\Tools.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\Tools.csproj",
+        "projectName": "Tools",
+        "projectPath": "c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\Tools.csproj",
+        "packagesPath": "C:\\Users\\MaplesWi\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MaplesWi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> d52de2f6c913a9f519054f2f9f8d00bd083cc6ac:C#/obj/Tools.csproj.nuget.dgspec.json
         ],
         "originalTargetFrameworks": [
           "net7.0"

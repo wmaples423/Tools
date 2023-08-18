@@ -5,19 +5,11 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-<<<<<<< HEAD:obj/Tools.csproj.nuget.g.props
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\wmapl\.nuget\packages\</NuGetPackageFolders>
-=======
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\MaplesWi\.nuget\packages\</NuGetPackageFolders>
->>>>>>> d52de2f6c913a9f519054f2f9f8d00bd083cc6ac:C#/obj/Tools.csproj.nuget.g.props
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.6.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-<<<<<<< HEAD:obj/Tools.csproj.nuget.g.props
     <SourceRoot Include="C:\Users\wmapl\.nuget\packages\" />
-=======
-    <SourceRoot Include="C:\Users\MaplesWi\.nuget\packages\" />
->>>>>>> d52de2f6c913a9f519054f2f9f8d00bd083cc6ac:C#/obj/Tools.csproj.nuget.g.props
   </ItemGroup>
 </Project>

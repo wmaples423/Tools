@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tgNXVanV6hwyDtG+RHIRx7ReRX6kVMevrqKLFguwlJe0qDrYnp48EKGp1+GEvWBu3nGscQ31RdpbVaRAb/vOqQ==",
+  "dgSpecHash": "CSmyCVpi84X9NVXSWhRhAHCEqu/9O0UG529rjrraqS5rigfxLojzpAqwaCckVzUP+EaVSQn6uNXWjvNLj/hVlQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\Tools.csproj",
+  "projectFilePath": "c:\\Users\\wmapl\\Source\\Tools\\C#\\Tools.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\Users\\MaplesWi\\OneDrive - Clayton Homes\\Desktop\\Tools\\Tools\\C#\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tools
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\wmapl\Source\Tools\C#\
+=======
+build_property.ProjectDir = c:\Users\MaplesWi\OneDrive - Clayton Homes\Desktop\Tools\Tools\C#\
+>>>>>>> 04a393f27d66eb517417137dacdd2cb8ecc21593

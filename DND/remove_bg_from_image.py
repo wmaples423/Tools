@@ -9,7 +9,7 @@ directory = easygui.diropenbox(title="Select directory containing JPEG files")
 # loop through all files in the directory
 for filename in os.listdir(directory):
     # check if the file is a JPEG file
-    if filename.endswith(".jpg") or filename.endswith(".jpeg"):
+    if filename.endswith(".jpg") or filename.endswith(".jpeg") or filename.endswith(".png"):
         # create input and output paths
         input_path = os.path.join(directory, filename)
         output_path = os.path.join(directory, os.path.splitext(filename)[0] + ".png")
